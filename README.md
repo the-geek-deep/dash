@@ -1,1 +1,3 @@
 # dash
+
+deep is fine
